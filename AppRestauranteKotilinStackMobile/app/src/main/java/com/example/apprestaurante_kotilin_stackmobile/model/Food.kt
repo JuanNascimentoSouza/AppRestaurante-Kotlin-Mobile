@@ -1,6 +1,6 @@
 package com.example.apprestaurante_kotilin_stackmobile.model
 
-class Food (
+data class Food (
 
     val imgFood: Int? = null,
     val foodName:String? = null,
